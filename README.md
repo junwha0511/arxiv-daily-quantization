@@ -3,7 +3,7 @@
 This repository is build based on [here](github.com/kobiso/get-daily-arxiv-noti)
 
 - Subject: computer science (cs)
-- Keywords: "human object interaction", "visual relation detection", "object detection", "transformer","scene understanding", "visual reasoning"
+- Keywords: "quantization", "pruning", "quantize"
 
 ## Usage( github actions)
 
