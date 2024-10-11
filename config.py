@@ -12,5 +12,4 @@ REPO_NAME = 'arxiv-daily'
 NEW_SUB_URL = 'https://arxiv.org/list/cs/new'
 
 # Keywords to search
-KEYWORD_LIST = ["human object interaction", "visual relation detection", "object detection", "transformer",
-                "scene understanding", "visual reasoning"]
+KEYWORD_LIST = ["quantization", "pruning", "quantize"]
