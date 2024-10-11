@@ -12,4 +12,4 @@ REPO_NAME = 'arxiv-daily'
 NEW_SUB_URL = 'https://arxiv.org/list/cs/new'
 
 # Keywords to search
-KEYWORD_LIST = ["quantization", "pruning", "quantize"]
+KEYWORD_LIST = ["quantization", "pruning", "quantize", "detr"]
