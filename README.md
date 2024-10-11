@@ -3,7 +3,7 @@
 This repository is build based on [here](github.com/kobiso/get-daily-arxiv-noti)
 
 - Subject: computer science (cs)
-- Keywords: "quantization", "pruning", "quantize"
+- Keywords: "quantization", "pruning", "quantize", "detr", "mamba"
 
 ## Usage( github actions)
 
